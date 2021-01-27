@@ -1,0 +1,68 @@
+
+html,body{
+background-image: url('img.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.8) 
+}
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: black;
+}
+
+
+.card-header h3{
+color: white;
+}
+
+
+.input-group-prepend span{
+width: 50px;
+background-color:#072F5F;
+color: black;
+
+}
+
+.error {
+    color: red;
+    font-size: 90%;
+}
+
+
+.login_btn{
+color: black;
+background-color:white;
+width: 100px;
+margin-left:100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: #072F5F;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+} 
+	
+	
